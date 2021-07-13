@@ -5,6 +5,9 @@ you can use any of the stocks details in the model by just changing the name of 
 
 this project is going to give you a daily basis of stockprice prediction of any company of your choice
 
+# data
+I have given a sample dataset of tesla company for reference, yahoo finance is recomended for downloading the dataset
+
 
 
 ### Libraries
