@@ -8,3 +8,7 @@ this project is going to give you a daily basis of stockprice prediction of any 
 
 # Licence & copyright
 Sharath Kumar, India
+
+### Libraries
+1.pandas
+2.plotly
